@@ -1,8 +1,0 @@
-name: linhas_trafego
-channels:
-  - conda-forge
-dependencies:
-  - numpy
-  - matplotlib
-  - statsmodels
-  - pandas
